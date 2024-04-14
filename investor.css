@@ -4,6 +4,10 @@
   box-sizing: border-box;
 }
 
+.investor {
+  display: flex;
+  gap: 20px;
+}
 .paytm,
 .cred,
 .pine-lab,
